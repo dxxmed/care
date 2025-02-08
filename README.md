@@ -1,4 +1,3 @@
 # care
-Organization.
 
-This is nothing yet but soon I'll make good use of this.
+Unsure what to do with this rn
